@@ -91,7 +91,7 @@ h3 {
   animation: showLanim 0.4s forwards ease-in-out;
 }
 #lower-container.hideL {
-  animation: hideLanime 0.4s forwards ease-in-out;
+  animation: hideLanime 0.2s forwards ease-in-out;
 }
 
 @keyframes in {
